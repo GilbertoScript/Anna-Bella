@@ -1,0 +1,50 @@
+#principal {
+	font-size: 16px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: #d1ccc0;
+	background-image: url(imagens/fundo.png);
+}
+
+#container {
+	margin: auto;
+	width: 900px;
+}
+
+#navbar {
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #c5c5b2;
+	padding: 18px;
+
+}
+
+#conteudo {
+	background: #FFF8DC;
+	padding: 10px;
+}
+
+.img-campanha {
+	border: 10px solid #c3c3ae;
+}
+
+.direitos {
+	text-align: center;
+	padding: 3px;
+}
+
+.contato {
+	padding: 5px;
+}
+
+a {
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 18px;
+	color: #4b566a;
+	padding: 6px;
+}
+
+h1 {
+	font-size: 1.2em;
+	color: gray;
+}
