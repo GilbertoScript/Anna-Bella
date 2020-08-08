@@ -21,4 +21,4 @@ Neste site foi utilizado as seguintes tecnologias
 
 ### :airplane: Acesse o site
 
-https://anna-bela.netlify.app/
+https://anna-bela-gsj.netlify.app/
