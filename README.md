@@ -9,6 +9,8 @@ Anna Bella é um site de uma modelo fictícia criada no Curso de Desenvolviento 
 
 Neste site já é utilizado divs e outros elementos importantes para a composição de um site "mais bem feito".
 
+Não há responsividade sendo utilizada no site
+
 <hr>
 
 ### 💻 Tecnologias utilizadas
@@ -20,5 +22,7 @@ Neste site foi utilizado as seguintes tecnologias
 
 
 ### :airplane: Acesse o site
+
+Hospedado no Netlify
 
 https://anna-bela-gsj.netlify.app/
